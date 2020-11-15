@@ -1,6 +1,6 @@
 <?php
 
-$fname=$_POST["fname"]
+$fname=$_POST["fname"];
 echo $fname;
 
 ?>
